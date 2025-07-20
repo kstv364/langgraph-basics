@@ -1,0 +1,30 @@
+# Byte-compiled / optimized / compiled files
+**/__pycache__/
+*.pyc
+*.pyd
+*.pyo
+*.egg-info/
+.pytest_cache/
+
+# Virtual environment
+.env/
+venv/
+env/
+# Add other common virtual environment names if used
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Editor specific files
+*.swp
+*~
+.DS_Store # macOS specific
+
+# Miscellaneous
+.ipynb_checkpoints/ # Jupyter notebooks
+*.log
+*.sqlite3
+*.db
